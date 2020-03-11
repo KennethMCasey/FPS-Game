@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A99FBFB6-E8E0-7BD8-D248-98346FB51B35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SelfDestruct.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MyController.cs" Line="24" Column="79" />
+      <File FileName="Assets/Scripts/rotate.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="10" Column="19" />
+      <File FileName="Assets/timer.cs" Line="21" Column="34" />
+      <File FileName="Assets/Scripts/TargetBehavior.cs" Line="51" Column="1" />
+      <File FileName="Assets/Spawn.cs" Line="26" Column="10" />
+      <File FileName="Assets/spawner.cs" Line="7" Column="19" />
+      <File FileName="Assets/Points.cs" Line="18" Column="6" />
+      <File FileName="Assets/SelfDestruct.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="29cad12e-8bae-4c43-9f34-495ba7e6296c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
